@@ -1,2 +1,4 @@
 ml scheme.ase
 data/
+.ipynb_checkpoints/
+.gitignore
